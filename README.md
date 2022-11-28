@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Data Science or Data Analytics Project
-- 📫 Reach me at vidhi.bbsc18@sls.pdpu.ac.in
+- 📫 Reach me at bhattvidhi1203@gmail.com
 
 <!---
 vidhi2000/vidhi2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
